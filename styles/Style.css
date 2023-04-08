@@ -106,18 +106,25 @@ body {
 }
 
 .apresentacao__about__titulo {
-    padding: 5% 20% 2%;
+    padding: 5% 5% 2%;
     font-weight: 600;
-    font-size: 1.5rem;
+    font-size: 1.7rem;
     font-family: var(--fonte-secundaria);
 }
 
+.apresentacao__about {
+    display: flex;
+    flex-direction: column;
+    width: auto;
+    gap: 40px;
+
+}
+
 .apresentacao__about__texto {
-    padding: 1% 20% 1%;
-    font-weight: 575;
+    padding: 1% 5% 1%;
     font-size: 1.5rem;
     font-family: var(--fonte-secundaria);
-    width: 50%;
+    width: auto;
     display: flex;
     flex-direction: column;
     gap: 40px;
@@ -169,6 +176,7 @@ body {
     .apresentacao__conteudo {
         width: auto;
     }
+
     .apresentacao__about__texto {
         width: auto;
     }
