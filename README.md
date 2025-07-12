@@ -16,8 +16,7 @@
 | **🔗 Online**       | [Acesse aqui na Vercel 🚀](https://portifolio-sousadev97.vercel.app)                                      |
 | ------------------- | --------------------------------------------------------------------------------------------------------- |
 | **👤 Autor**        | José Enoque Costa de Sousa                                                                                |
-| **📍 Localização**  | São Bernardo do Campo, SP - Brasil                                                                        |
-| **💼 Profissão**    | Técnico de Suporte, Estudante de Engenharia da Computação                                                 |
+| **📍 Localização**  | São Bernardo do Campo, SP - Brasil                                              |
 | **🌐 Contatos**     | [LinkedIn](https://www.linkedin.com/in/enoque-sousa-bb89aa168/) • [GitHub](https://github.com/SousaDev97) |
 | **🛠️ Tecnologias** | HTML5 • CSS3 (Flexbox, Variáveis) • (JS Futuro) • Git • Vercel                                            |
 | **📜 Certificados** | [Veja todos na pasta `/certificados`](./certificados)                                                     |
