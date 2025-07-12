@@ -1,4 +1,3 @@
-Claro! Aqui está o seu README aprimorado **sem** a seção de Roadmap:
 
 ---
 
@@ -262,5 +261,7 @@ Todo o conteúdo, imagens e estrutura são de autoria de José Enoque Costa de S
 Feito com dedicação por <strong>José Enoque Costa de Sousa</strong> 💻
 
 </div>
+
+> ✨ Projeto Criado em: 7 de abr. de 2023 às 21:20
 
 ---
