@@ -1,6 +1,7 @@
 # Portifolio
 
 [![CI](https://github.com/ESousa97/Portifolio/actions/workflows/ci.yml/badge.svg)](https://github.com/ESousa97/Portifolio/actions/workflows/ci.yml)
+[![CodeFactor](https://www.codefactor.io/repository/github/esousa97/portifolio/badge)](https://www.codefactor.io/repository/github/esousa97/portifolio)
 [![Pages](https://github.com/ESousa97/Portifolio/actions/workflows/pages.yml/badge.svg)](https://github.com/ESousa97/Portifolio/actions/workflows/pages.yml)
 
 Portfólio pessoal (site estático) em **HTML/CSS** com automação de qualidade (format/lint) e deploy.
