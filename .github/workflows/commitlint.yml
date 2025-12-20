@@ -8,6 +8,7 @@ permissions:
 
 jobs:
   commitlint:
+    if: ${{ github.actor != 'dependabot[bot]' && github.actor != 'dependabot' }}
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
