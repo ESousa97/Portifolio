@@ -3,11 +3,26 @@
 [![CI](https://github.com/ESousa97/Portifolio/actions/workflows/ci.yml/badge.svg)](https://github.com/ESousa97/Portifolio/actions/workflows/ci.yml)
 [![Pages](https://github.com/ESousa97/Portifolio/actions/workflows/pages.yml/badge.svg)](https://github.com/ESousa97/Portifolio/actions/workflows/pages.yml)
 
-Site estático de portfólio pessoal, escrito em **HTML/CSS**, com automação de qualidade (format/lint) e deploy via GitHub Pages.
+Portfólio pessoal (site estático) em **HTML/CSS** com automação de qualidade (format/lint) e deploy.
+
+<div align="center">
+   <img
+      src="https://user-images.githubusercontent.com/114963739/230698650-fac8052e-0d47-48eb-a8be-830b82f9d824.png"
+      alt="Screenshot do portfólio"
+      width="720"
+   />
+</div>
+
+## Links
+
+- **GitHub Pages (este repositório):** `https://esousa97.github.io/Portifolio/`
+- **Vercel (se ativo):** https://portifolio-sousadev97.vercel.app
+- **LinkedIn:** https://www.linkedin.com/in/enoque-sousa-bb89aa168/
+- **GitHub:** https://github.com/SousaDev97
 
 ## Motivação
 
-Um portfólio precisa ser simples, rápido de abrir e fácil de manter. Este repositório mantém o site **sem bundlers** (você abre e funciona), mas com o mesmo nível de governança esperado em projetos profissionais: padrões, CI, templates e documentação.
+Um portfólio precisa ser simples, rápido de abrir e fácil de manter. Este repo mantém o site **sem bundlers** (você abre e funciona), mas com governança profissional: padrões, CI, templates e documentação.
 
 ## Funcionalidades
 
@@ -52,8 +67,6 @@ npm run build
 
 ## Arquitetura
 
-Arquitetura simples e direta:
-
 ```
 .
 ├── index.html
@@ -66,11 +79,6 @@ Arquitetura simples e direta:
 ```
 
 Detalhes em: `docs/architecture.md`.
-
-## Roadmap
-
-- [ ] Adicionar metatags (Open Graph) e melhorias de acessibilidade
-- [ ] Publicar screenshot atualizado no README
 
 ## Contribuição
 
@@ -87,4 +95,3 @@ Maintained.
 ## Autor
 
 - José Enoque Costa de Sousa
-- LinkedIn: https://www.linkedin.com/in/enoque-sousa-bb89aa168/
