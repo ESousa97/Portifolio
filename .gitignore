@@ -1,0 +1,17 @@
+# Node
+node_modules/
+.npm/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Build artifacts (if added later)
+dist/
+coverage/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*

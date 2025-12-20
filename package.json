@@ -1,0 +1,29 @@
+{
+  "name": "portifolio",
+  "private": true,
+  "version": "0.1.0",
+  "description": "Site estático de portfólio (HTML/CSS).",
+  "scripts": {
+    "format": "prettier --write .",
+    "format:check": "prettier --check .",
+    "lint:html": "html-validate \"**/*.html\"",
+    "lint:css": "stylelint \"**/*.css\"",
+    "lint": "npm run format:check && npm run lint:html && npm run lint:css",
+    "prepare": "husky",
+    "test": "npm run lint",
+    "build": "node ./scripts/build.mjs"
+  },
+  "devDependencies": {
+    "@commitlint/cli": "^19.6.0",
+    "@commitlint/config-conventional": "^19.6.0",
+    "html-validate": "^9.4.2",
+    "husky": "^9.1.7",
+    "lint-staged": "^15.2.11",
+    "prettier": "^3.4.2",
+    "stylelint": "^16.12.0",
+    "stylelint-config-standard": "^36.0.1"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

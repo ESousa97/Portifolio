@@ -1,0 +1,10 @@
+node_modules
+coverage
+dist
+
+# Binary or large docs
+**/*.pdf
+**/*.png
+**/*.jpg
+**/*.jpeg
+**/*.gif

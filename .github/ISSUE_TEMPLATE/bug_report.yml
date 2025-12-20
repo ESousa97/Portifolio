@@ -1,0 +1,46 @@
+name: "Bug report"
+description: "Reporte um problema no site"
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Obrigado por reportar! Por favor preencha os campos abaixo.
+  - type: input
+    id: page
+    attributes:
+      label: "Página"
+      description: "Em qual página ocorreu? (index/about/curriculo)"
+      placeholder: "index.html"
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: "Passos para reproduzir"
+      description: "Como reproduzir o problema"
+      placeholder: |
+        1. ...
+        2. ...
+        3. ...
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: "Comportamento esperado"
+    validations:
+      required: true
+  - type: textarea
+    id: actual
+    attributes:
+      label: "Comportamento atual"
+    validations:
+      required: true
+  - type: input
+    id: browser
+    attributes:
+      label: "Navegador/Versão"
+      placeholder: "Chrome 131 / Edge 131 / Firefox 132"
+    validations:
+      required: false
