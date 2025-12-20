@@ -44,7 +44,7 @@ body {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  gap: 82px;
+  gap: 64px;
 }
 
 .apresentacao__conteudo {
@@ -126,7 +126,14 @@ body {
 }
 
 .apresentacao__imagem {
-  width: 100%;
+  width: min(38vw, 320px);
+  max-height: 380px;
+  object-fit: cover;
+  border-radius: 16px;
+  align-self: center;
+  margin: 0 0 0 32px;
+  transform: translateY(-50%);
+  box-shadow: 0 12px 32px rgba(0, 0, 0, 0.35);
 }
 
 .rodape {
@@ -160,6 +167,13 @@ body {
 
   .apresentacao__conteudo {
     width: auto;
+  }
+
+  .apresentacao__imagem {
+    width: min(60vw, 360px);
+    max-height: none;
+    transform: none;
+    margin: 0 auto;
   }
 
   .apresentacao__about__texto {
