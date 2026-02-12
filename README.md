@@ -94,6 +94,7 @@ Acesse o portfólio em produção:
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 
 **Requisitos mínimos:**
+
 - Node.js 20+ (apenas para ferramentas de desenvolvimento)
 - npm 9+
 - Qualquer navegador moderno (para visualização)
@@ -135,11 +136,13 @@ Abra o arquivo `index.html` diretamente no seu navegador preferido.
 **Opção 2: Servidor local (recomendado)**
 
 Com Python:
+
 ```bash
 python -m http.server 8080
 ```
 
 Com Node.js:
+
 ```bash
 npx serve .
 ```
