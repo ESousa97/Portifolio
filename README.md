@@ -242,7 +242,7 @@ MIT License - você pode usar, copiar, modificar e distribuir este código.
 
 <div align="center">
 
-**[⬆ Voltar ao topo](#-portfólio)**
+**[⬆ Voltar ao topo](#portfólio)**
 
 Feito com ❤️ por [José Enoque](https://github.com/SousaDev97)
 
