@@ -1,7 +1,7 @@
 {
   "extends": ["stylelint-config-standard"],
   "rules": {
-    "color-function-notation": "legacy",
+    "color-function-notation": "modern",
     "alpha-value-notation": "number",
     "media-feature-range-notation": "prefix",
     "selector-class-pattern": null
