@@ -19,20 +19,20 @@
 
 ## Índice
 
-- [Sobre o Projeto](#-sobre-o-projeto)
-- [Demonstração](#-demonstração)
-- [Funcionalidades](#-funcionalidades)
-- [Tecnologias](#-tecnologias)
-- [Começando](#-começando)
+- [Sobre o Projeto](#sobre-o-projeto)
+- [Demonstração](#demonstração)
+- [Funcionalidades](#funcionalidades)
+- [Tecnologias](#tecnologias)
+- [Começando](#começando)
   - [Pré-requisitos](#pré-requisitos)
   - [Instalação](#instalação)
   - [Desenvolvimento](#desenvolvimento)
-- [Scripts Disponíveis](#-scripts-disponíveis)
-- [Estrutura do Projeto](#-estrutura-do-projeto)
-- [Deploy](#-deploy)
-- [Contribuindo](#-contribuindo)
-- [Licença](#-licença)
-- [Contato](#-contato)
+- [Scripts Disponíveis](#scripts-disponíveis)
+- [Estrutura do Projeto](#estrutura-do-projeto)
+- [Deploy](#deploy)
+- [Contribuindo](#contribuindo)
+- [Licença](#licença)
+- [Contato](#contato)
 
 ---
 
