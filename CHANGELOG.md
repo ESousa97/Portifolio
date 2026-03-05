@@ -13,6 +13,7 @@ The format is based on Keep a Changelog, and this project adheres to Semantic Ve
 ### Changed
 
 - HTML/CSS normalized for cross-platform hosting (case-sensitive paths, markup fixes).
+- **Repositório arquivado (2026-03-04):** O projeto foi arquivado e não receberá mais atualizações. Permanecerá público apenas para referência e estudos. Não há garantia de resposta para issues ou PRs.
 
 ## [0.1.0] - 2025-12-20
 

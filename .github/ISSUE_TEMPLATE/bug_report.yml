@@ -5,6 +5,8 @@ body:
   - type: markdown
     attributes:
       value: |
+        > **⚠️ Projeto Arquivado**: Este repositório não está mais ativo e permanece público apenas para fins de estudo. Não há garantia de resposta, revisão ou correção para as issues abertas.
+
         Obrigado por reportar! Por favor preencha os campos abaixo.
   - type: input
     id: page

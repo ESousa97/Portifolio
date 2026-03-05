@@ -2,6 +2,10 @@ name: "Feature request"
 description: "Sugira uma melhoria"
 labels: ["enhancement"]
 body:
+  - type: markdown
+    attributes:
+      value: |
+        > **⚠️ Projeto Arquivado**: Este repositório não está mais ativo e permanece público apenas para fins de estudo. Não há garantia de resposta, revisão ou correção para as issues abertas.
   - type: textarea
     id: problem
     attributes:

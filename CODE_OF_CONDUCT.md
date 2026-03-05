@@ -1,3 +1,5 @@
+> **⚠️ Projeto Arquivado**: Este repositório não está mais ativo e permanece público apenas para fins de estudo. Não há garantia de resposta, revisão ou correção de PRs ou issues abertas.
+
 # Code of Conduct
 
 ## Our Pledge
